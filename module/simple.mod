@@ -1,2 +1,2 @@
-/home/slimshady/oskernel/simple.o
+/home/slimshady/oskernel/Bravoos/module/simple.o
 
