@@ -1,0 +1,1 @@
+cmd_/home/slimshady/oskernel/Bravoos/module2/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/slimshady/oskernel/Bravoos/module2/hello.ko /home/slimshady/oskernel/Bravoos/module2/hello.o /home/slimshady/oskernel/Bravoos/module2/hello.mod.o;  true
