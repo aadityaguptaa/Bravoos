@@ -1,0 +1,1 @@
+cmd_/home/slimshady/oskernel/Bravoos/module3/jiffies.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/slimshady/oskernel/Bravoos/module3/jiffies.ko /home/slimshady/oskernel/Bravoos/module3/jiffies.o /home/slimshady/oskernel/Bravoos/module3/jiffies.mod.o;  true
